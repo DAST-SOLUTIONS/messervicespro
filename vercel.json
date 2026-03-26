@@ -1,0 +1,6 @@
+{
+  "name": "messervicespro",
+  "buildCommand": "npm run build",
+  "outputDirectory": "out",
+  "framework": "nextjs"
+}
